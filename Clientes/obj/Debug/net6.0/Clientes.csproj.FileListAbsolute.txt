@@ -1,0 +1,93 @@
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\appsettings.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\Clientes.staticwebassets.runtime.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\Clientes.exe
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\Clientes.deps.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\Clientes.runtimeconfig.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\Clientes.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\bin\Debug\net6.0\Clientes.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.csproj.AssemblyReference.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.RazorAssemblyInfo.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.RazorAssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.Clientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.build.Clientes.props
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Clientes.props
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Clientes.props
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\scopedcss\bundle\Clientes.styles.css
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\scopedcss\projectbundle\Clientes.bundle.scp.css
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\refint\Clientes.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\Clientes.genruntimeconfig.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Clientes\obj\Debug\net6.0\ref\Clientes.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\appsettings.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.staticwebassets.runtime.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.exe
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.deps.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.runtimeconfig.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.pdb
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.csproj.AssemblyReference.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfo.cs
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.RazorAssemblyInfo.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.RazorAssemblyInfo.cs
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.Clientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.build.Clientes.props
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Clientes.props
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Clientes.props
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\scopedcss\bundle\Clientes.styles.css
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\scopedcss\projectbundle\Clientes.bundle.scp.css
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\refint\Clientes.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.pdb
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.genruntimeconfig.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\ref\Clientes.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\appsettings.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.staticwebassets.runtime.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.exe
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.deps.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.runtimeconfig.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\bin\Debug\net6.0\Clientes.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.csproj.AssemblyReference.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfoInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.AssemblyInfo.cs
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.RazorAssemblyInfo.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.RazorAssemblyInfo.cs
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.Clientes.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.build.Clientes.props
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Clientes.props
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Clientes.props
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\scopedcss\bundle\Clientes.styles.css
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\scopedcss\projectbundle\Clientes.bundle.scp.css
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\refint\Clientes.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\Clientes.genruntimeconfig.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Clientes\obj\Debug\net6.0\ref\Clientes.dll

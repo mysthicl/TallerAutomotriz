@@ -1,0 +1,181 @@
+﻿@model Taller.AplicacionWeb.Models.ViewModels.VMTblReparacion;
+@{
+	Layout = null;
+}
+
+
+<html lang="es" class="history svg video supports boxshadow csstransforms3d csstransitions backgroundcliptext webkit chrome win js sticky-header-enabled">
+<head>
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<!-- Favicon -->
+	<link rel="stylesheet" href="~/css/StyleSheet.css" />
+	<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/871/871484.png" type="image/png">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+	<title>
+		Super Marios
+	</title>
+
+	<!-- DNS Prefetch -->
+	<link rel="dns-prefetch" href="//www.googletagmanager.com">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com/">
+
+	<!-- Web Fonts  -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light%7CPlayfair+Display:400" rel="stylesheet" type="text/css">
+
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/fontawesome-free/css/all.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/animate/animate.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/magnific-popup/magnific-popup.min.css">
+
+	<!-- Theme CSS -->
+
+	<link rel="stylesheet" href="https://mailamericas.com/css/theme.css">
+	<link rel="stylesheet" href="https://mailamericas.com/css/theme-elements.css">
+	<link rel="stylesheet" href="https://mailamericas.com/css/theme-blog.css">
+	<link rel="stylesheet" href="https://mailamericas.com/css/theme-shop.css">
+
+
+	<!-- Skin CSS -->
+	<link rel="stylesheet" href="https://mailamericas.com/css/skins/default.css">
+
+	<!-- Theme Custom CSS -->
+	<link rel="stylesheet" href="https://mailamericas.com/css/custom.css">
+
+	<!-- Head Libs -->
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P6JJNRS"></script>
+	<script src="https://mailamericas.com/vendor/modernizr/modernizr.min.js"></script>
+
+	<!-- Google Tag Manager -->
+	<!-- End Google Tag Manager -->
+	<!-- Current Page CSS -->
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/rs-plugin/css/settings.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/rs-plugin/css/layers.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/rs-plugin/css/navigation.css">
+
+
+	<link rel="stylesheet" href="https://mailamericas.com/css/tracking-bar.css">
+
+	<meta name="robots" content="noindex">
+
+
+</head>
+
+
+
+<body data-target="#header" data-spy="scroll" data-offset="100" style="background: #eee">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P6JJNRS"
+				height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+	<header id="header" class="header-effect-shrink header-dark" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}" style="height: 54.4px;">
+		<div class="header-body bg-color-quaternary border-top-0" style="position: fixed; top: 0px;">
+			<div class="header-top bg-color-dark" style="height: 53.6px; min-height: 0px; overflow: visible;">
+			</div>
+		</div>
+	</header>
+
+	<div class="body" style="background: #eee">
+		<div role="main" class="main" style="background: #eee">
+			<div class="container pt-5">
+
+
+				<div class="row">
+
+					<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%ERROOOOOOR AQUI%%%%%%%%%%%%%%%%%%%%%%-->
+
+					<div class="col-12 mt-4">
+						<h2 class="mt-2 mb-2 ml-2 mr-2  font-weight-extra-bold" style="color:#76BD1D">Ayuda</h2>
+						<p class="lead mt-2 mb-2 ml-2 mr-2">Para que podamos brindarte una atención personalizada, ingresá tu número de tracking.</p>
+					</div>
+
+
+					<div class="col">
+
+						<h2 class="mt-5 text-center text-uppercase mb-0">Seguimiento de su vehiculo</h2>
+
+						<div class="py-4 px-3 mt-3 mb-5" style="background: #f8f9fa; border-radius: 15px;">
+
+							<div class="alert alert-danger my-3 lead text-center">
+								No se ha encontrado un servicio con ese numero de tracking.
+							</div>
+
+							<form asp-controller="Cliente" asp-action="Index" method="post">
+								<div class="form-row justify-content-center">
+									<div class="col-lg-4 col-md-6 col-sm-8">
+										<input type="text" placeholder="Ej.: P976823" class="form-control" asp-for="NumberTracking">
+									</div>
+									<div class="col-sm-auto">
+										<button type="submit" class="btn btn-primary btn-block">Buscar</button>
+									</div>
+								</div>
+							</form>
+						</div>
+
+					</div>
+
+					<!--%%%%%%%%%%%%%%%%%%%%%%%%%%% fin del ERROOOOOOR AQUI%%%%%%%%%%%%%%%%%%%%%%-->
+
+
+				</div>
+			</div>
+
+
+
+		</div>
+		<div class="col-12 mt-4">
+			<h2 class="mt-2 mb-2 ml-2 mr-2  font-weight-extra-bold" style=" color: #eee">Ayuda</h2>
+
+		</div>
+
+
+
+		<footer id="footer" class="mt-0">
+			<div class="footer-copyright footer-copyright-style-2">
+				<div class="container py-2">
+					<div class="row py-4">
+						<div class="col col-md-8 mb-4 mb-lg-0">
+							<p>TallerSuperMarios © Copyright 2023. Todos los derechos reservados.</p>
+						</div>
+						<div class="col col-md-4 mb-4 mb-lg-0">
+							<a href="#"><p>Términos de uso y Política de Privacidad</p></a>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+
+
+		<!-- Modal Tracking -->
+
+
+
+	</div>
+
+
+
+
+	<script src="~/vendor/jquery/jquery.min.js"></script>
+	<script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+	<!-- Core plugin JavaScript-->
+	<script src="~/vendor/jquery-easing/jquery.easing.min.js"></script>
+
+	<!-- Theme Custom -->
+	<script src="~/js/vistas/ClienteIndex.js"></script>
+</body>
+</html>

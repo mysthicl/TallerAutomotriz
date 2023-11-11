@@ -1,0 +1,180 @@
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Irving\Desktop\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\ProyectoTaller\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Nueva carpeta\Taller\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller4\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Paginas de web activa\Taller\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller5\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+F:\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+F:\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+F:\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+F:\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+F:\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+F:\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+F:\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+F:\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Julio Amaya\Desktop\Julio\4 año\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\china\OneDrive\Documentos\2023\ciclo 1\computo2\PWA\Taller2\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll
+C:\Users\Irving\Desktop\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.deps.json
+C:\Users\Irving\Desktop\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.dll
+C:\Users\Irving\Desktop\Taller\Taller.DAL\bin\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Irving\Desktop\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.dll
+C:\Users\Irving\Desktop\Taller\Taller.DAL\bin\Debug\net6.0\Taller.Entity.pdb
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.AssemblyReference.cache
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfoInputs.cache
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.AssemblyInfo.cs
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.csproj.CopyComplete
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.dll
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\refint\Taller.DAL.dll
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\Taller.DAL.pdb
+C:\Users\Irving\Desktop\Taller\Taller.DAL\obj\Debug\net6.0\ref\Taller.DAL.dll

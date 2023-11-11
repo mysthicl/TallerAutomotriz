@@ -1,0 +1,868 @@
+﻿@model Taller.AplicacionWeb.Models.ViewModels.VMTblReparacion;
+@{
+	Layout = null;
+}
+
+
+
+<head>
+	<!-- Basic -->
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+	<!-- Favicon -->
+	<link rel="shortcut icon" href="https://cdn-icons-png.flaticon.com/512/871/871484.png" type="image/png">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css">
+
+	<!-- Mobile Metas -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no">
+
+	<meta name="keywords" content="MailAmericas, Courrier, Correo, Latinoamerica, China, Estados Unidos, Rapido">
+	<meta name="description" content="Trabajamos activamente para la industria del comercio electronico aportando soluciones de Cross Border B2C para pequeños paquetes. MailAmericas trabaja con D.P.O.s en el desarrollo de servicios para compañías E-Commerce con estándares de alta calidad.">
+
+	<!-- Open Graph -->
+	<meta property="og:title" content="MailAmericas - Sitio Oficial">
+	<meta property="og:description" content="Trabajamos activamente para la industria del comercio electronico aportando soluciones de Cross Border B2C para pequeños paquetes. MailAmericas trabaja con D.P.O.s en el desarrollo de servicios para compañías E-Commerce con estándares de alta calidad.">
+	<meta property="og:image" content="https://mailamericas.com/img/op_image.png">
+
+
+	<title>Taller Super Marios - Sitio Oficial</title>
+
+
+	<!-- DNS Prefetch -->
+	<link rel="dns-prefetch" href="//www.googletagmanager.com">
+	<link rel="dns-prefetch" href="//fonts.googleapis.com/">
+
+	<!-- Web Fonts  -->
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700,800%7CShadows+Into+Light%7CPlayfair+Display:400" rel="stylesheet" type="text/css">
+
+	<!-- Vendor CSS -->
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/fontawesome-free/css/all.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/animate/animate.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/simple-line-icons/css/simple-line-icons.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/owl.carousel/assets/owl.carousel.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/owl.carousel/assets/owl.theme.default.min.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/magnific-popup/magnific-popup.min.css">
+
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="~/css/theme.css">
+	<link rel="stylesheet" href="~/css/theme-elements.css">
+	<link rel="stylesheet" href="~/css/theme-blog.css">
+	<link rel="stylesheet" href="~/css/theme-shop.css">
+
+	<!-- Skin CSS -->
+	<link rel="stylesheet" href="~/css/default.css">
+
+	<!-- Theme Custom CSS -->
+	<link rel="stylesheet" href="~/css/custom.css">
+
+	<!-- Head Libs -->
+	<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script>
+	<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-P6JJNRS"></script>
+	<script src="https://mailamericas.com/vendor/modernizr/modernizr.min.js"></script>
+
+	<!-- Google Tag Manager -->
+	<script>
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || []; w[l].push({
+				'gtm.start':
+					new Date().getTime(), event: 'gtm.js'
+			}); var f = d.getElementsByTagName(s)[0],
+				j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+					'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-P6JJNRS');</script>
+	<!-- End Google Tag Manager -->
+	<!-- Current Page CSS -->
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/rs-plugin/css/settings.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/rs-plugin/css/layers.css">
+	<link rel="stylesheet" href="https://mailamericas.com/vendor/rs-plugin/css/navigation.css">
+
+
+	<style type="text/css">
+
+		
+	</style>
+
+	<script>
+		var enlaces = document.querySelectorAll(".nav-link");
+
+		for (var i = 0; i < enlaces.length; i++) {
+			enlaces[i].addEventListener("click", function (event) {
+				event.preventDefault();
+
+				for (var j = 0; j < enlaces.length; j++) {
+					enlaces[j].classList.remove("active");
+				}
+
+			
+				event.target.classList.add("active");
+			});
+		}
+
+
+	</script>
+
+</head>
+
+<body>
+	<header id="header" class="header-effect-shrink header-dark" data-plugin-options="{'stickyEnabled': true, 'stickyEffect': 'shrink', 'stickyEnableOnBoxed': true, 'stickyEnableOnMobile': true, 'stickyChangeLogo': true, 'stickyStartAt': 120, 'stickyHeaderContainerHeight': 70}" style="height: 154.4px;">
+		<div class="header-body bg-color-quaternary border-top-0" style="top: 0px; position: fixed;">
+			
+			<div class="header-container container" style="height: 100px; min-height: 0px;">
+				<div class="header-row">
+					<div class="header-column">
+						<div class="header-row">
+							<div class="header-logo" style="width: 202px; height: 42px;">
+								<a href="#">
+									<img alt="SuperMarios" width="202" height="100" data-sticky-width="202" data-sticky-height="100" src="~/img/Logo.png" style="top: 0px; width: 202px; height: 60px;">
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="header-column justify-content-end">
+						<div class="header-row">
+							<div class="header-nav header-nav-links header-nav-light-text header-nav-line header-nav-bottom-line header-nav-bottom-line-effect-1 order-2 order-lg-1">
+								<div class="header-nav-main header-nav-main-mobile header-nav-main-effect-2 header-nav-main-sub-effect-1">
+									<nav class="collapse">
+										<ul class="nav nav-pills" id="mainNav">
+											<li class="nav-item">
+												<a class="nav-link  " href="#empresa" data-hash="" data-hash-offset="30">
+													La Empresa
+												</a>
+											</li>
+											<li class="nav-item">
+												<a class="nav-link" href="#servicios" data-hash="" data-hash-offset="40">
+													Servicios
+												</a>
+											</li>
+
+											<li class="nav-item">
+												<a class="nav-link" href="#tecnologia" data-hash="" data-hash-offset="40">
+													Tecnologia
+												</a>
+											</li>
+											<li class="nav-item">
+												<a class="nav-link" href="#contactos" data-hash="" data-hash-offset="40">
+													Contactos
+												</a>
+											</li>
+											<li class="nav-item">
+												<a class="nav-link" href="#warehouses" data-hash="" data-hash-offset="40">
+													Ubicacion
+												</a>
+											</li>
+
+
+
+										</ul>
+									</nav>
+								</div>
+								<button class="btn header-btn-collapse-nav" data-toggle="collapse" data-target=".header-nav-main nav">
+									<i class="bi bi-list"></i>
+								</button>
+							</div>
+							<div class="header-nav-features header-nav-features-no-border header-nav-features-lg-show-border order-1 order-lg-2">
+								<div class="header-nav-feature header-nav-features-search d-inline-flex">
+									<a href="#" class="header-nav-features-toggle bg-color-primary px-3 py-1 d-none d-lg-block" style="text-decoration: none; color: white; border-radius: 35px;" data-focus="headerSearch">
+										TRACKING <i class="bi bi-search"></i>
+									</a>
+									<div class="header-nav-features-dropdown d-none d-lg-block text-center" style="padding-top: 8px;" id="headerTopSearchDropdown">
+										<div class="d-flex justify-content-end mb-1">
+											<button type="button" class="close" onclick="$(this).parent().parent().removeClass('show')" aria-label="Cerrar">
+												<span aria-hidden="true">×</span>
+											</button>
+										</div>
+										<h5>
+											<img class="d-inline" src="https://cdn-icons-png.flaticon.com/512/14/14562.png" width="32" alt="">
+											REVISE EL ESTADO DE SU VEHICULO
+										</h5>
+
+										<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%trackPackage($('#trackingSearch').val(), event)-->
+										<form asp-controller="Cliente" asp-action="Index" method="post">
+											<div class="simple-search input-group">
+												<input class="form-control text-1" id="trackingSearch" asp-for="NumberTracking" type="search" placeholder="Ej.: P976823">
+												<span class="input-group-append">
+													<button class="btn" type="submit">
+														<i class="bi bi-search"></i>
+													</button>
+												</span>
+											</div>
+										</form>
+										<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+
+	<div class="body">
+		
+
+		<div role="main">
+
+			<div class="" id="revolutionSlider_forcefullwidth" style="position:relative;width:100%;margin-top:0px;margin-bottom:0px">
+
+				<div id="revolutionSlider" class=" " style="max-height: 600px; margin-top: 0px; margin-bottom: 0px; height:auto;" data-slideactive="rs-392966">
+
+					<img style="width:100%; " src="https://plantilla.linkgud.com/classic/wp-content/uploads/2017/02/banner-3.jpg" />
+
+
+				</div>
+			</div><div style="width:100%;height:auto"></div>
+
+		</div>
+		<!-- ./slider -->
+		<!-- section-business -->
+		<section class="section section-height-3 bg-color-grey-scale-1 m-0 border-0 d-none d-md-block" id="empresa">
+			<div class="container">
+				<div class="tabs tabs-bottom tabs-center tabs-simple">
+					<ul class="nav nav-tabs">
+						<li class="nav-item active">
+							<a class="nav-link" style="font-size: 1.3rem;" href="#tabsNavigationSimple1" data-toggle="tab">
+								Quienes <strong class="font-weight-extra-bold">Somos</strong>
+							</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" style="font-size: 1.3rem;" href="#tabsNavigationSimple2" data-toggle="tab">
+								Nuestro <strong class="font-weight-extra-bold">Compromiso</strong>
+							</a>
+						</li>
+					</ul>
+					<div class="tab-content">
+						<div class="tab-pane active" id="tabsNavigationSimple1">
+							<div class="row">
+								<div class="col-md-6">
+									<p class="lead">En Taller Super Marios, somos un equipo de mecánicos altamente capacitados y con amplia experiencia en el mantenimiento y reparación de vehículos de todo tipo. Desde pequeñas reparaciones hasta proyectos más grandes, estamos comprometidos a ofrecer un servicio excepcional y una atención al cliente de primera calidad.</p>
+									<p class="lead">Nos enorgullece ofrecer un servicio personalizado a cada uno de nuestros clientes, siempre tratando de satisfacer sus necesidades y asegurarnos de que sus vehículos funcionen de manera óptima. Además, trabajamos con equipos y herramientas de alta calidad, lo que nos permite realizar diagnósticos precisos y reparaciones efectivas.</p>
+									<p class="pr-5 mr-5"></p>
+								</div>
+								<div class="col-md-6">
+									<img alt="" class="img-fluid border-radius" src="https://www.lacomunidaddeltaller.es/wp-content/uploads/2019/05/asetra-talleres-subvenciones.jpeg">
+								</div>
+							</div>
+						</div>
+						<div class="tab-pane" id="tabsNavigationSimple2">
+							<div class="tab-pane" id="tabsNavigationSimple4">
+								<div class="row">
+									<div class="col-md-6">
+										<img alt="" class="img-fluid border-radius" src="https://img.freepik.com/foto-gratis/mecanicos-que-colocan-debajo-coche_1170-1538.jpg">
+									</div>
+									<div class="col-md-6">
+										<p class="lead">Nuestro objetivo es hacer que el proceso de mantenimiento y reparación de vehículos sea lo más fácil y cómodo posible para nuestros clientes. Por eso, ofrecemos horarios flexibles, presupuestos claros y un enfoque en la comunicación abierta y transparente.</p>
+										<p class="lead">En Taller Super Marios, estamos comprometidos con la satisfacción del cliente y la excelencia en el servicio. Si está buscando un taller mecánico confiable y de confianza para mantener su vehículo en óptimas condiciones, ¡no dude en contactarnos!</p>
+										<p class="pr-5 mr-5"></p>
+										<p class="pr-5 mr-5"></p>
+										<p class="pr-5 mr-5"></p>
+										<p class="pr-5 mr-5"></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<!-- section-solutions -->
+		<div>
+			<section class="section section-height-3 section-quaternary section-text-light  m-0 border-0" id="servicios">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4 py-3 py-md-0 appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-icon">
+									<i class="bi bi-tools"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="font-weight-bold mb-2 text-primary">Mantenimiento preventivo</h4>
+									<p class="lead">incluye cambios de aceite y filtros, revisión de frenos, cambio de neumáticos, alineación y balanceo, revisión de sistemas de iluminación y batería, revisión de niveles de líquidos, entre otros.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 py-3 py-md-0 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" style="animation-delay: 100ms;">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-icon">
+									<i class="bi bi-tools"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="font-weight-bold mb-2 text-primary">Reparación de motores</h4>
+									<p class="lead">incluye reparación de motores de gasolina y diesel, reemplazo de piezas defectuosas, reparación de sistemas de inyección de combustible, reparación de sistemas de refrigeración, entre otros.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 py-3 py-md-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-icon">
+									<i class="bi bi-tools"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="font-weight-bold mb-2 text-primary">Reparación de sistemas de suspensión</h4>
+									<p class="lead"> incluye reparación de amortiguadores y sistemas de suspensión, reparación de sistemas de dirección, reparación de sistemas de frenos, entre otros.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 py-3 py-md-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-icon">
+									<i class="bi bi-tools"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="font-weight-bold mb-2 text-primary">Inspecciones técnicas y revisiones periódicas</h4>
+									<p class="lead"> incluye revisiones técnicas del vehículo, revisión y reparación de sistemas de seguridad, revisiones pre-ITV, entre otros.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 py-3 py-md-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-icon">
+									<i class="bi bi-tools"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="font-weight-bold mb-2 text-primary">Reparación de sistemas de transmisión</h4>
+									<p class="lead"> incluye reparación de cajas de cambio manuales y automáticas, reparación de sistemas de embrague, reparación de sistemas de transmisión integral (4x4), entre otros.</p>
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4 py-3 py-md-0 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="200" style="animation-delay: 200ms;">
+							<div class="feature-box feature-box-style-2">
+								<div class="feature-box-icon">
+									<i class="bi bi-tools"></i>
+								</div>
+								<div class="feature-box-info">
+									<h4 class="font-weight-bold mb-2 text-primary">Reparación de sistemas eléctricos</h4>
+									<p class="lead"> incluye diagnóstico y reparación de sistemas eléctricos del vehículo, reparación de sistemas de carga y arranque, reparación de sistemas de iluminación, entre otros.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+		</div>
+		<!-- section-technologies -->
+		<section class="section section-height-3 m-0 border-0" id="tecnologia">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 appear-animation animated fadeInRightShorter appear-animation-visible" data-appear-animation="fadeInRightShorter" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<h2 class="font-weight-normal text-6 mt-5">
+							<strong class="font-weight-extra-bold">Tecnología de punta</strong> - Siempre conectados
+						</h2>
+						<p class="lead">
+							Contamos con la última tecnología en sistemas de seguimiento para la reparacion de su vehiculo y
+							procesamiento de información historica de su vehiculo para crear la mejor experiencia para nuestros clientes.
+						</p>
+						<p class="lead">
+							La implementación de tecnología de seguimiento mejora la eficiencia y la calidad de los servicios, lo que se traduce en una mejor experiencia para nuestros clientes y un aumento en la satisfacción y fidelización de los mismos.
+						</p>
+					</div>
+					<div class="col-md-6 text-center appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<img alt="" class="img-fluid border-radius" src="https://us.123rf.com/450wm/devidgrutz/devidgrutz2009/devidgrutz200900228/156214275-documento-de-contrato-de-seguro-icono-de-escudo-proteccion-ilustraci%C3%B3n-de-acciones-vectoriales.jpg?ver=6">
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class="section section-height-3 m-0 border-0" id="tecnologia2">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<img alt="" class="img-fluid border-radius" src="https://mailamericas.com/img/technology2.png">
+					</div>
+					<div class="col-md-6 text-right appear-animation animated fadeInLeftShorter appear-animation-visible" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<h2 class="font-weight-normal text-6 mt-5">
+							<strong class="font-weight-extra-bold">Historial</strong> - Siempre un paso adelante
+						</h2>
+						<p class="lead">
+							Para nosotros el manejo de la información es uno de los valores principales. Contamos con un historial mecanico, el cual nos mantiene informados en cuanto al diagnostico de su vehiculo. Esta valorización y tratamiento de la información nos permite
+							estar en constante evolución para una rápida toma de decisiones
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- ./section-technologies -->
+		<!-- section-services -->
+		<section class="section section-height-3 bg-color-grey-scale-4 m-0 border-0" id="contactos">
+			<div class="container featured-boxes featured-boxes-style-2">
+				<div class="row">
+					<div class="col-lg-3 col-6 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<div class="featured-box featured-box-primary featured-box-effect-4 d-flex align-items-center text-center border-radius" style="height: 100px;">
+							<div class="box-content">
+								<img src="https://www.fumc.edu.co/wp-content/uploads/Logo-Whatsapp-PNG.png" height="50" width="50" alt="">
+								<h4 class="font-weight-normal text-5 mt-3">+503 7667766</h4>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-6 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<div class="featured-box featured-box-primary featured-box-effect-4 d-flex align-items-center text-center border-radius" style="height: 100px;">
+							<div class="box-content">
+								<img src="https://cdn.pixabay.com/photo/2020/10/17/13/19/facebook-5662065_1280.png" height="50" width="50" alt="">
+								<h4 class="font-weight-normal text-5 mt-3">Taller Super Marios</h4>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-6 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<div class="featured-box featured-box-primary featured-box-effect-4 d-flex align-items-center text-center border-radius" style="height: 100px;">
+							<div class="box-content">
+								<img src="https://www.pnguniverse.com/wp-content/uploads/2020/11/Gmail-logo.png" height="50" width="50" alt="">
+								<h4 class="font-weight-normal text-5 mt-3">marios@gmail.com</h4>
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-3 col-6 appear-animation animated fadeIn appear-animation-visible" data-appear-animation="fadeIn" data-appear-animation-delay="100" style="animation-delay: 100ms;">
+						<div class="featured-box featured-box-primary featured-box-effect-4 d-flex align-items-center text-center border-radius" style="height: 100px;">
+							<div class="box-content">
+								<img src="https://logotipoz.com/wp-content/uploads/2021/10/instagram-png.png" height="50" width="50" alt="">
+								<h4 class="font-weight-normal text-5 mt-3">_Marios931</h4>
+							</div>
+						</div>
+					</div>
+					
+				</div>
+			</div>
+		</section>
+		<!-- ./section-services -->
+		<!-- section-warehouses -->
+		<section class="section section-height-3 section-quaternary m-0 border-0" id="warehouses">
+			<div class="container">
+				<h2 class="font-weight-normal text-center text-6">
+					Nuestra <strong class="font-weight-extra-bold">Ubicacion</strong>
+				</h2>
+				<div class="lead text-center pb-3 text-color-light opacity-7">
+					Ubicados estratégicamente.
+				</div>
+				<div class="row">
+					<div style="width:50%; display:inline-block;padding:20px ">
+						<div class="toggle toggle-minimal" data-plugin-toggle="" data-plugin-options="{ 'isAccordion': true }">
+							<section class="toggle active">
+								<label class="text-light">Horarios</label>
+								<div class="toggle-content">
+									<p>Lunes a Viernes 9AM - 6PM</p>
+
+								</div>
+							</section>
+							<section class="toggle">
+								<label class="text-light">Ubicacion</label>
+								<div class="toggle-content">
+									<p>Calle la paz 136, San Miguel</p>
+								</div>
+							</section>
+
+						</div>
+					</div>
+					<div style="width:50%; display:inline-block; padding:20px; text-align:center ">
+						<img src="https://static.vecteezy.com/system/resources/previews/015/014/930/original/time-location-control-icon-flat-work-clock-vector.jpg" class="" style=" width:250px; border-radius:50px" alt="">
+					</div>
+				</div>
+			</div>
+		</section>
+		<!-- ./section-warehouses -->
+
+	</div>
+
+	</div>
+
+
+
+	<footer id="footer" class="mt-0">
+		<div class="footer-copyright footer-copyright-style-2">
+			<div class="container py-2">
+				<div class="row py-4">
+					<div class="col col-md-8 mb-4 mb-lg-0">
+						<p>TallerSuperMarios © Copyright 2023. Todos los derechos reservados.</p>
+					</div>
+					<div class="col col-md-4 mb-4 mb-lg-0">
+						<a href="https://mailamericas.com/terminos-de-uso-y-pol%C3%ADtica-de-privacidad"><p>Términos de uso y Política de Privacidad</p></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</footer>
+
+
+	<div class="modal fade" id="informationModal" tabindex="-1" role="dialog" aria-labelledby="informationModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-lg" style="max-width: 820px;">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="informationModalLabel">Soluciones para E-commerce</h4>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+				<div class="modal-body">
+					<p>
+						Trabajamos activamente para la industria del comercio electronico aportando soluciones de Cross
+						Border B2C para pequeños paquetes.
+					</p>
+					<p>
+						MailAmericas trabaja con D.P.O.s en el desarrollo de servicios para compañías E-Commerce con
+						estándares de alta calidad.
+					</p>
+					<img class="w-100 px-4 my-4" src="https://mailamericas.com/img/cross-border_es.png" alt="">
+
+					<div class="card border-0 p-4 bg-color-quaternary my-4">
+						<h4 class="card-title mb-1 text-4 font-weight-bold text-light">
+							Ventajas de MailAmericas vs. China Post
+						</h4>
+						<div class="card-text mb-4">
+							<img class="w-100" src="https://mailamericas.com/img/advantages_v3_es.png" alt="">
+						</div>
+						<h4 class="card-title mb-1 text-4 font-weight-bold text-light">
+							Comparación de servicios - Estadísticas
+						</h4>
+						<div class="card-text mb-4">
+							<img class="w-100" src="https://mailamericas.com/img/comparison-graphic_v2.png" alt="">
+						</div>
+						<h4 class="card-title mb-1 text-4 font-weight-bold text-light">
+							Información con Mailamericas
+						</h4>
+						<div class="card-text mb-4">
+							<img class="w-100" src="https://mailamericas.com/img/comparison-information-ml_es.png" alt="">
+						</div>
+						<h4 class="card-title mb-1 text-4 font-weight-bold text-light">
+							Información con nuestros competidores
+						</h4>
+						<div class="card-text">
+							<img class="w-100" src="https://mailamericas.com/img/comparison-information-competitors_es.png" alt="">
+						</div>
+					</div>
+
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-light" data-dismiss="modal">
+						Cerrar
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="modal fade" id="trackingModal" tabindex="-1" role="dialog" aria-labelledby="trackingModalLabel" aria-hidden="true">
+		<div class="modal-dialog modal-sm">
+			<div class="modal-content">
+				<div class="modal-header">
+					<h4 class="modal-title" id="trackingModalLabel"></h4>
+					<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+				</div>
+				<div class="modal-body text-center">
+					<img class="mb-2" src="https://mailamericas.com/img/icons/package-search.png" width="92" alt="">
+					<h5>REVISE EL ESTADO DE SU VEHICULO</h5>
+					<form asp-controller="Cliente" asp-action="Index" method="post">
+						<div class="simple-search input-group">
+							<input class="form-control text-1" id="trackingSearch2" type="search" asp-for="NumberTracking" placeholder="Ej.: P976823">
+							<span class="input-group-append">
+								<button class="btn" type="submit">
+									<i class="bi bi-search"></i>
+								</button>
+							</span>
+						</div>
+					</form>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-light" data-dismiss="modal">Cerrar</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<div class="d-block d-lg-none" style="position: fixed; bottom: 20px; right: 30px; text-align: right; z-index: 1000;">
+
+		<div>
+			<button class="btn btn-rounded btn-primary" data-toggle="modal" data-target="#trackingModal">
+				TRACKING <i class="bi bi-search"></i>
+			</button>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+	<script>
+		function returnCommentSymbol(language = "javascript") {
+			const languageObject = {
+				bat: "",
+				c: "//",
+				csharp: "//",
+				cpp: "//",
+				closure: ";;",
+				coffeescript: "#",
+				dockercompose: "#",
+				css: "/*DELIMITER*/",
+				"cuda-cpp": "//",
+				dart: "//",
+				diff: "#",
+				dockerfile: "#",
+				fsharp: "//",
+				"git-commit": "//",
+				"git-rebase": "#",
+				go: "//",
+				groovy: "//",
+				handlebars: "{{!--DELIMITER--}}",
+				hlsl: "//",
+				html: "<!--DELIMITER-->",
+				ignore: "#",
+				ini: ";",
+				java: "//",
+				javascript: "//",
+				javascriptreact: "//",
+				json: "//",
+				jsonc: "//",
+				julia: "#",
+				latex: "%",
+				less: "//",
+				lua: "--",
+				makefile: "#",
+				markdown: "<!--DELIMITER-->",
+				"objective-c": "//",
+				"objective-cpp": "//",
+				perl: "#",
+				perl6: "#",
+				php: "<!--DELIMITER-->",
+				powershell: "#",
+				properties: ";",
+				jade: "//-",
+				python: "#",
+				r: "#",
+				razor: "<!--DELIMITER-->",
+				restructuredtext: "..",
+				ruby: "#",
+				rust: "//",
+				scss: "//",
+				shaderlab: "//",
+				shellscript: "#",
+				sql: "--",
+				svg: "<!--DELIMITER-->",
+				swift: "//",
+				tex: "%",
+				typescript: "//",
+				typescriptreact: "//",
+				vb: "'",
+				xml: "<!--DELIMITER-->",
+				xsl: "<!--DELIMITER-->",
+				yaml: "#"
+			}
+			if (!languageObject[language]) {
+				return languageObject["python"].split("DELIMITER")
+			}
+			return languageObject[language].split("DELIMITER")
+		}
+		var savedChPos = 0
+		var returnedSuggestion = ''
+		let editor, doc, cursor, line, pos
+		pos = { line: 0, ch: 0 }
+		var suggestionsStatus = false
+		var docLang = "python"
+		var suggestionDisplayed = false
+		var isReturningSuggestion = false
+		document.addEventListener("keydown", (event) => {
+			setTimeout(() => {
+				editor = event.target.closest('.CodeMirror');
+				if (editor) {
+					const codeEditor = editor.CodeMirror
+					if (!editor.classList.contains("added-tab-function")) {
+						editor.classList.add("added-tab-function")
+						codeEditor.removeKeyMap("Tab")
+						codeEditor.setOption("extraKeys", {
+							Tab: (cm) => {
+
+								if (returnedSuggestion) {
+									acceptTab(returnedSuggestion)
+								}
+								else {
+									cm.execCommand("defaultTab")
+								}
+							}
+						})
+					}
+					doc = editor.CodeMirror.getDoc()
+					cursor = doc.getCursor()
+					line = doc.getLine(cursor.line)
+					pos = { line: cursor.line, ch: line.length }
+
+					if (cursor.ch > 0) {
+						savedChPos = cursor.ch
+					}
+
+					const fileLang = doc.getMode().name
+					docLang = fileLang
+					const commentSymbol = returnCommentSymbol(fileLang)
+					if (event.key == "?") {
+						var lastLine = line
+						lastLine = lastLine.slice(0, savedChPos - 1)
+
+						if (lastLine.trim().startsWith(commentSymbol[0])) {
+							if (fileLang !== "null") {
+								lastLine += " " + fileLang
+							}
+
+							lastLine = lastLine.split(commentSymbol[0])[1]
+							window.postMessage({ source: 'getQuery', payload: { data: lastLine } })
+							isReturningSuggestion = true
+							displayGrey("\nBlackbox loading...")
+						}
+					} else if (event.key === "Enter" && suggestionsStatus && !isReturningSuggestion) {
+						var query = doc.getRange({ line: Math.max(0, cursor.line - 50), ch: 0 }, { line: cursor.line, ch: line.length })
+						window.postMessage({ source: 'getSuggestion', payload: { data: query, language: docLang, cursorPos: pos } })
+						displayGrey("Blackbox loading...")
+					} else if (event.key === "ArrowRight" && returnedSuggestion) {
+						acceptTab(returnedSuggestion)
+					} else if (event.key === "Enter" && isReturningSuggestion) {
+						displayGrey("\nBlackbox loading...")
+					} else if (event.key === "Escape") {
+						displayGrey("")
+					}
+				}
+			}, 0)
+		})
+
+		function acceptTab(text) {
+			if (suggestionDisplayed) {
+				displayGrey("")
+				doc.replaceRange(text, pos)
+				returnedSuggestion = ""
+				updateSuggestionStatus(false)
+			}
+		}
+		function acceptSuggestion(text) {
+			displayGrey("")
+			doc.replaceRange(text, pos)
+			returnedSuggestion = ""
+			updateSuggestionStatus(false)
+		}
+		function displayGrey(text) {
+			if (!text) {
+				document.querySelector(".blackbox-suggestion").remove()
+				return
+			}
+			var el = document.querySelector(".blackbox-suggestion")
+			if (!el) {
+				el = document.createElement('span')
+				el.classList.add("blackbox-suggestion")
+				el.style = 'color:grey'
+				el.innerText = text
+			}
+			else {
+				el.innerText = text
+			}
+
+			var lineIndex = pos.line;
+			editor.getElementsByClassName('CodeMirror-line')[lineIndex].appendChild(el)
+		}
+		function updateSuggestionStatus(s) {
+			suggestionDisplayed = s
+			window.postMessage({ source: 'updateSuggestionStatus', status: suggestionDisplayed, suggestion: returnedSuggestion })
+		}
+		window.addEventListener('message', (event) => {
+			if (event.source !== window) return
+			if (event.data.source == 'return') {
+				isReturningSuggestion = false
+				const formattedCode = formatCode(event.data.payload.data)
+				returnedSuggestion = formattedCode
+				displayGrey(formattedCode)
+				updateSuggestionStatus(true)
+			}
+			if (event.data.source == 'suggestReturn') {
+				const prePos = event.data.payload.cursorPos
+				if (pos.line == prePos.line && pos.ch == prePos.ch) {
+					returnedSuggestion = event.data.payload.data
+					displayGrey(event.data.payload.data)
+					updateSuggestionStatus(true)
+				}
+				else {
+					displayGrey()
+				}
+			}
+			if (event.data.source == 'codeSearchReturn') {
+				isReturningSuggestion = false
+				displayGrey()
+			}
+			if (event.data.source == 'suggestionsStatus') {
+				suggestionsStatus = event.data.payload.enabled
+			}
+			if (event.data.source == 'acceptSuggestion') {
+
+				acceptSuggestion(event.data.suggestion)
+			}
+		})
+		document.addEventListener("keyup", function () {
+			returnedSuggestion = ""
+			updateSuggestionStatus(false)
+		})
+		function formatCode(data) {
+			if (Array.isArray(data)) {
+				var finalCode = ""
+				var pairs = []
+
+				const commentSymbol = returnCommentSymbol(docLang)
+				data.forEach((codeArr, idx) => {
+					const code = codeArr[0]
+					var desc = codeArr[1]
+					const descArr = desc.split("\n")
+					var finalDesc = ""
+					descArr.forEach((descLine, idx) => {
+						const whiteSpace = descLine.search(/\S/)
+						if (commentSymbol.length < 2 || idx === 0) {
+							finalDesc += insert(descLine, whiteSpace, commentSymbol[0])
+						}
+						if (commentSymbol.length > 1 && idx === descArr.length - 1) {
+							finalDesc = finalDesc + commentSymbol[1] + "\n"
+						}
+					})
+
+					finalCode += finalDesc + "\n\n" + code
+					pairs.push(finalCode)
+				})
+				return "\n" + pairs.join("\n")
+			}
+
+			return "\n" + data
+		}
+
+		function insert(str, index, value) {
+			return str.substr(0, index) + value + str.substr(index)
+		}
+	</script>
+
+
+
+
+
+
+	<script src="https://mailamericas.com/vendor/jquery/jquery.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.appear/jquery.appear.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.easing/jquery.easing.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.cookie/jquery.cookie.min.js"></script>
+	<script src="https://mailamericas.com/vendor/popper/umd/popper.min.js"></script>
+	<script src="https://mailamericas.com/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="https://mailamericas.com/vendor/common/common.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.validation/jquery.validate.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.easy-pie-chart/jquery.easypiechart.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.gmap/jquery.gmap.min.js"></script>
+	<script src="https://mailamericas.com/vendor/jquery.lazyload/jquery.lazyload.min.js"></script>
+	<script src="https://mailamericas.com/vendor/isotope/jquery.isotope.min.js"></script>
+	<script src="https://mailamericas.com/vendor/owl.carousel/owl.carousel.min.js"></script>
+	<script src="https://mailamericas.com/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	<script src="https://mailamericas.com/vendor/vide/jquery.vide.min.js"></script>
+
+	<script src="~/js/theme.js"></script>
+
+	<script src="https://mailamericas.com/vendor/rs-plugin/js/jquery.themepunch.tools.min.js"></script>
+	<script src="https://mailamericas.com/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
+
+	<script src="~/js/custom.js"></script>
+
+	<script src="~/js/theme.init.js"></script>
+
+
+</body>

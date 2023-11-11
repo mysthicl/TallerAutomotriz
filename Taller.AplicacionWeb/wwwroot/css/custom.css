@@ -1,0 +1,35 @@
+/* Add here all your CSS customizations */
+#header .header-nav-features .header-nav-features-dropdown {
+    margin-right: -75px;
+}
+
+html.sticky-header-active #header .header-body {
+    border-bottom-color: #76bd1d;
+}
+
+body {
+    font-size: 15px;
+}
+
+[v-cloak] {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .w-md-auto {
+        width: auto !important;
+    }
+}
+
+@media (min-width: 992px) {
+    .faq-last-event {
+        position: sticky;
+        top: 73px;
+        z-index: 9999;
+        background: var(--white);
+    }
+
+    .faq-last-event.sticky {
+        border-bottom: 1px solid #999;
+    }
+}

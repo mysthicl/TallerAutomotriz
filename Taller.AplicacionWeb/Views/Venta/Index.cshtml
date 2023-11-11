@@ -1,0 +1,276 @@
+﻿@{
+	ViewData["Title"] = "Index";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section Estilos{
+	<link href="~/vendor/select2/select2.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+}
+
+<style>
+	.container-principal {
+		padding-top: 0px;
+		margin-bottom: 20px;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+	}
+
+	.container {
+		box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+		padding: 20px;
+		border-radius: 10px;
+	}
+
+	.bo {
+		border-radius: 5px;
+	}
+
+
+	.form-group {
+		display: grid;
+		grid-template-rows: auto auto;
+		grid-gap: 5px;
+	}
+
+	.in {
+		border: 1px solid #ced4da;
+		border-radius: 0.25rem;
+		transition: border-color 0.2s ease-in-out;
+	}
+
+		.in:focus {
+			border-color: #007bff;
+			outline: none;
+			box-shadow: 0 0 4px #00bfff;
+		}
+
+
+
+
+
+	.banner {
+		padding: 5px; /* Espaciado interno del banner */
+	}
+
+	.text-container {
+		text-align: left; /* Alineación del texto a la izquierda */
+		font-size: 33px;
+		color: blue;
+		font-weight: bold;
+	}
+
+	.centrado {
+		text-align: center;
+	}
+
+</style>
+
+
+
+<title></title>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="../JS/sweetalert2.all.min.js"></script>
+<link href="~/vendor/select2/select2.min.css" rel="stylesheet">
+
+
+<body>
+	<div class="container-principal ">
+
+
+
+
+
+		<div class="container " Style="background-color:#F2F3F4">
+
+			<div class="banner w-100">
+				<div class="text-container">
+					<label>Nueva venta</label>
+
+				</div>
+			</div>
+
+
+			<div class="row">
+
+
+
+
+
+
+				<div class="col-6 mx-0">
+					<div class="float-start w-100 d-flex ">
+						
+
+
+						<button class="btn btn-primary dropdown-toggle mx-3" type="button" data-bs-toggle="collapse" data-bs-target="#clienteFormulario" aria-expanded="false" aria-controls="clienteFormulario">
+							Datos del cliente
+						</button>
+
+					</div>
+				</div>
+
+				<div class="col-6 mx-0">
+					<div class="float-end w-100 justify-content-end" style="display: flex;">
+
+						<div class="dropdown">
+
+
+
+							<label Style="font-size: 30px; color: blue; font-weight: bold;" id="lbfactura" class=" w-100 d-block">#00005</label>
+
+							<Label id="Label2" class="text-end w-100 d-block">Fecha</Label>
+						</div>
+					</div>
+				</div>
+
+				<div style="margin-top: 50px; padding-left: 10%; padding-right: 10%" class="collapse col-12" id="clienteFormulario">
+
+					<div class="mb-3">
+						<label for="nombre" class="form-label">Nombre</label>
+						<input type="text" class="form-control" id="txtDui" placeholder="Ingrese el Dui del cliente" />
+					</div>
+					<div class="mb-3">
+						<label for="apellido" class="form-label">Apellido</label>
+						<input type="text" class="form-control" id="txtNombre" placeholder="Ingrese el apellido del cliente" />
+					</div>
+					<div class="mb-3">
+						<label for="telefono" class="form-label">Telefono</label>
+						<input type="text" class="form-control" id="txtTelefono" placeholder="Ingrese el Telefono del cliente" />
+					</div>
+
+					<div class="mb-3">
+						<label for="direccion" class="form-label">Dirección</label>
+						<textarea class="form-control" id="txtDireccion" rows="3" placeholder="Ingrese la dirección del cliente"></textarea>
+					</div>
+
+
+				</div>
+			</div>
+
+			<hr style="margin-top: 20px; margin-bottom: 20px; border: none; border-top: 3px solid #808080;" />
+
+			<div class="input-group mb-3">
+
+
+				<div class="" style="margin-right: auto; width: 100%">
+					<div class="form-group">
+						
+						<div  class="input-group" style="width: 100%;">
+							<i class="bi bi-search " style="margin-right:7px"></i>
+							<select style="" class="form-control form-control-sm " id="cboBuscarProducto">
+								<option value=""></option>
+							</select>
+						</div>
+					</div>
+				</div>
+
+			</div>
+
+
+
+			<div class="row">
+				<div class="col-sm-12">
+					<table class="table table-striped table-sm" id="tbProducto">
+						<thead>
+							<tr>
+								<th></th>
+								<th>Nombre</th>
+								<th>Descripcion</th>
+								<th>Cantidad</th>
+								<th>Precio</th>
+								<th>Total</th>
+							</tr>
+						</thead>
+						<tbody>
+						</tbody>
+					</table>
+				</div>
+			</div>
+
+			<div id="divNoResults" style="display: none;">No se encontraron resultados</div>
+
+
+
+
+			<hr style="margin-top: 20px; margin-bottom: 20px; border: none; border-top: 3px solid #808080;" />
+
+			<div id="TOTAL" class="col-12 mx-0">
+
+
+
+
+
+				<div class="float-end w-100" style="display: flex;">
+
+					<div class="" style="margin-right: auto; width: 400px">
+						<div class="form-group">
+							<label for="total-apagar">Total pagado</label>
+							<div class="input-group" style="width: 100%;">
+								<span class="input-group-text">$</span>
+
+								<input type="text" class="form-control form-control-lg" id="txtTotalPagado" aria-label="Dollar amount (with dot and two decimal places)" />
+							</div>
+
+						</div>
+					</div>
+					<div class="" style="margin-left: auto; width: 400px">
+
+						<div class="form-group">
+							<label for="total-pagado"> IVA 13%</label>
+
+							<div class="input-group">
+								<span class="input-group-text">$</span>
+
+								<label type="text" class="form-control form-control-lg" id="txtSaldoPendiente" aria-label="Dollar amount (with dot and two decimal places)"></label>
+							</div>
+							
+						</div>
+						<div class="form-group" style="width: 100%;">
+							<label for="saldo-pendiente">  Total a pagar </label>
+							
+
+
+							<div class="input-group" style="width: 100%;">
+								<span class="input-group-text">$</span>
+
+								<label type="text" class="form-control form-control-lg" id="txtTotalPagar" aria-label="Dollar amount (with dot and two decimal places)"></label>
+							</div>
+						</div>
+						<div class="form-group" style="width: 100%;">
+							<label for="su-cambio">Su cambio</label>
+							<div class="input-group">
+								<span class="input-group-text">$</span>
+
+								<label type="text" class="form-control form-control-lg" id="txtSuCambio" aria-label="Dollar amount (with dot and two decimal places)"></label>
+							</div>
+						</div>
+
+						<button Style="margin-top: 15px;" type="button" class="btn btn-success btn-lg" id="btnTerminarVenta">Terminar Venta</button>
+
+						
+
+
+
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	@section Scripts{
+		<script src="~/vendor/select2/select2.min.js"></script>
+		<script src="~/vendor/select2/es.min.js"></script>
+		<script src="~/js/vistas/VentaIndex.js"></script>
+
+	}
+
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+
+</body>
+
+

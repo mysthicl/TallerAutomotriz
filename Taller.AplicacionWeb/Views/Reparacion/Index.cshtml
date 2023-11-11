@@ -1,0 +1,82 @@
+﻿@{
+	ViewData["Title"] = "Reparacion";
+	Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@section Estilos{
+	<link href="~/vendor/select2/select2.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+}
+
+
+<div class="card shadow mb-4">
+    <div class="card-header py-3 bg-second-primary">
+        <h6 class="m-0 font-weight-bold text-white">Nueva Reparacion</h6>
+    </div>
+    <div class="card-body">
+
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="form-row">
+                    <div class="form-group col-sm-6">
+                        <label for="txtDescripcion"> <i class="bi bi-search " style="margin-right:7px"></i> Buscar Cotizacion</label>
+
+                        <select style="" class="form-control form-control-sm " id="cboBuscarCotizacion">
+                            <option value=""></option>
+                        </select>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label for="txtDescripcion"> <i class="bi bi-search " style="margin-right:7px"></i> Buscar Vehiculo</label>
+
+                        <select style="" class="form-control form-control-sm " id="cboBuscarCarro">
+                            <option value=""></option>
+                        </select>
+                    </div>
+                </div>
+                <hr />
+                <div class="form-row">
+                    <div class="form-group col-sm-12">
+                        <label for="Descripcion">Descripcion</label>
+                        <textarea class="form-control" id="txtDescripcion" aria-label="With textarea"></textarea>
+                    </div>
+                </div>
+                <hr />
+                <div>
+                    <table class="table table-sm table-striped" id="tbdata" cellspacing="0" style="width:100%">
+                        <thead>
+                            <tr>
+                                <th>descripcion</th>
+                                
+                                <th>cantidad</th>
+                                <th>precio</th>
+                                <th>subtotal</th>
+
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary btn-sm" type="button" id="btnGuardar">Guardar</button>
+                    <button class="btn btn-danger btn-sm" type="button" data-dismiss="modal">Cancel</button>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts{
+	<script src="~/vendor/select2/select2.min.js"></script>
+	<script src="~/vendor/select2/es.min.js"></script>
+	<script src="~/js/vistas/ReparacionIndex.js"></script>
+
+}
+
